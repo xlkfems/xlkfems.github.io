@@ -15,26 +15,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Hexo 写一篇博客</title>
-    <url>/37981.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.2.1/css/hint.min.css"><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>欢迎来到 <a href="https://hexo.io/">Hexo</a>！这是您的第一篇文章。查看<a href="(https://hexo.io/docs/)">文档</a>以获取更多信息。如果在使用Hexo时遇到任何问题，可以在<a href="%5D(https://hexo.io/docs/troubleshooting.html)">故障排除</a>中找到答案，或者可以在<a href="https://github.com/hexojs/hexo/issues">GitHub</a>上问我。 </p>
-<h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建一篇新文章"><a href="#创建一篇新文章" class="headerlink" title="创建一篇新文章"></a>创建一篇新文章</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>更多信息：<a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="预览"><a href="#预览" class="headerlink" title="预览"></a>预览</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo server</span><br></pre></td></tr></table></figure>
-<p>更多信息： <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure>
-<p>更多信息： <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="部署到远程站点"><a href="#部署到远程站点" class="headerlink" title="部署到远程站点"></a>部署到远程站点</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>
-<p>更多信息： <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>默认</category>
-      </categories>
-      <tags>
-        <tag>默认</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hexo 实现悬浮注释</title>
     <url>/9929.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.2.1/css/hint.min.css"><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><a id="more"></a>
@@ -46,6 +26,26 @@
 <span style="border-bottom: 1px dashed #389fff;"><span class="hint--top hint--rounded hint--info" aria-label="hint_text" ontouchstart>body_text</span></span>
 
 <h2 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h2><p><a href="https://github.com/etigerstudio/hexo-tag-hint">https://github.com/etigerstudio/hexo-tag-hint</a></p>
+]]></content>
+      <categories>
+        <category>默认</category>
+      </categories>
+      <tags>
+        <tag>默认</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hexo 写一篇博客</title>
+    <url>/37981.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.2.1/css/hint.min.css"><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>欢迎来到 <a href="https://hexo.io/">Hexo</a>！这是您的第一篇文章。查看<a href="(https://hexo.io/docs/)">文档</a>以获取更多信息。如果在使用Hexo时遇到任何问题，可以在<a href="%5D(https://hexo.io/docs/troubleshooting.html)">故障排除</a>中找到答案，或者可以在<a href="https://github.com/hexojs/hexo/issues">GitHub</a>上问我。 </p>
+<h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建一篇新文章"><a href="#创建一篇新文章" class="headerlink" title="创建一篇新文章"></a>创建一篇新文章</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>更多信息：<a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="预览"><a href="#预览" class="headerlink" title="预览"></a>预览</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo server</span><br></pre></td></tr></table></figure>
+<p>更多信息： <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure>
+<p>更多信息： <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="部署到远程站点"><a href="#部署到远程站点" class="headerlink" title="部署到远程站点"></a>部署到远程站点</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>
+<p>更多信息： <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
       <categories>
         <category>默认</category>
@@ -75,5 +75,382 @@ content<a href="#fnref:3" rev="footnote"> ↩</a></span></li><li id="fn:4"><span
       <tags>
         <tag>默认</tag>
       </tags>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/0.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.2.1/css/hint.min.css"><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><h1 id="java复习—基础篇"><a href="#java复习—基础篇" class="headerlink" title="java复习—基础篇"></a>java复习—基础篇</h1><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><blockquote>
+<p>此资料用于学过了，但还是有点欠缺或需要复习或是作为一份入门的资料使用，第一次做复习资料有不足如果有什么不对的地方请各位大佬指出（基本都是根据自身学习的东西来的）。</p>
+</blockquote>
+<h2 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h2><blockquote>
+<p>什么是java？</p>
+</blockquote>
+<p>​    Java是1995年由Sun公司推出的一门极富创造力的面向对象的程序设计语言，它是由有“Java之父”之称的Sun研究院院士詹姆斯.戈士林博士亲手设计而成的，正是他完成了Java技术的原始编译器和虚拟机。Java 最初的名字是OAK,在1995年被重命名为Java,并正式发布。Java是一种通过解释方式来执行的语言，其语法规则和C++类似。同时，Java 也是一种跨平 台的程序设计语言。用Java语言编写的程序，可以运行在任何平台和设备上，如跨越IBM个人电脑、MAC苹果计算机、各种微处理器硬件平台，以及Windows、UNIX、OS/2、 MACOS等系统平台，真正实现“一-次编写，到处运行”。Java非常适于企业网络和Internet环境，并且已成为Internet中最具有影响力、最受欢迎的编程语言之一。</p>
+<blockquote>
+<p>java程序编译运行过程</p>
+</blockquote>
+<p><img src= "https://cdn.jsdelivr.net/gh/weilining/img@main/img/loading.gif" data-lazy-src="C:\Users\随便\AppData\Roaming\Typora\typora-user-images\image-20210516113245780.png" alt="image-20210516113245780"></p>
+<blockquote>
+<h4 id="java的优势"><a href="#java的优势" class="headerlink" title="java的优势"></a><strong>java的优势</strong></h4></blockquote>
+<ul>
+<li>简单性</li>
+<li>面向对象</li>
+<li>可移植性</li>
+<li>高性能</li>
+<li>分布式</li>
+<li>动态性</li>
+<li>多线程</li>
+<li>安全性</li>
+<li>健壮性</li>
+</ul>
+<h6 id="简单性："><a href="#简单性：" class="headerlink" title="简单性："></a>简单性：</h6><p>​        java语言简单明了，容易掌握，是纯面向对象的语言，其语法规则和C++类似又可以说是从C和C++演变而来的。java语言就像是C++纯净版，例如java使用接口取代了多重继承，取消了指针，内存的自动管理等等。</p>
+<h6 id="面向对象："><a href="#面向对象：" class="headerlink" title="面向对象："></a>面向对象：</h6><p>​         java提倡万物皆对象的原则，语法中不能再类外面定义单独的数据和函数，也就是说，java语言外部的数据类型是对象，所有的元素都需要通过类和对象来进行访问的</p>
+<h6 id="可移植性："><a href="#可移植性：" class="headerlink" title="可移植性："></a>可移植性：</h6><p>​         由于java在虚拟机内部运行，因此完全独立于底层的操作系统和硬件。能够在任何设备上运行，JVM屏蔽了底层平台的差异，对于不同的系统有不同的虚拟机，虚拟机提供硬件平台规范。java开发的程序被编译成虚拟机指令所形成的字节码，虚拟机将这些指令翻译成操作系统特定的指令，正因如此我们所编写的java代码可以在任何安装兼容虚拟机操作系统上运行。“一次编译，到处运行”。</p>
+<h6 id="高性能："><a href="#高性能：" class="headerlink" title="高性能："></a>高性能：</h6><p>​         java编译后的字节码是解释器中运行的，所以它的速度较多速交互应用程序提高了很多，另外，字节码可以在程序运行时被翻译成特定平台的机器指令，从而进一步提高运行速度</p>
+<h6 id="分布式："><a href="#分布式：" class="headerlink" title="分布式："></a>分布式：</h6><p>​         java分布性包括操作分布以及数据分布，其中操作分布是指在多个不同的主机布置相关操作，而数据分布是将数据分别存放在不同的主机上，java可以凭借URL对象访问网络对象、访问方式与访问本地系统相同。</p>
+<h6 id="动态性："><a href="#动态性：" class="headerlink" title="动态性："></a>动态性：</h6><p>​         java可以动态调整库中的方法和增加变量，而客户端不需要进行更改。</p>
+<h6 id="多线程："><a href="#多线程：" class="headerlink" title="多线程："></a>多线程：</h6><p>​         多线程应用程序能够同时运行多项任务，就比如你一边用QQ聊天一边打游戏这种。使用多线程，可以带来更好的交互能力和实时行为。</p>
+<h6 id="安全性："><a href="#安全性：" class="headerlink" title="安全性："></a>安全性：</h6><p>​         java最初就是围绕智能设备之间的通信而设计的，对于java可用功能和禁用功能进行了非常严格的规定。java编程组件运行在不同的安全环境下，未经允许的java程序不会出现损害系统平台的行为。如：浏览器中运行的小程序不能访问web客户端底层文件系统，也不能访问除源站点以外的其他web站点。分布式组件也必须要经过运行才能与其他主机进行通讯。所以的java程序都运行在虚拟机上，这样可用防止底层操作受到侵害。</p>
+<h6 id="健壮性："><a href="#健壮性：" class="headerlink" title="健壮性："></a>健壮性：</h6><p>​         最初java只是一种Web页面添加交互性开发简单的通讯方案的简单机制然而，现在Java拥有许多引以为豪的强大功能和特性:可与最优秀的操作系统相媲美的图形用户界面(GUI) ;优于任何其他供应商的Web开发方案;领导市场的分布式企业平台;一套 极为丰富的、可实现数据输入和输出、多线程、高级图像处理、XML文档操作等功能的库集合。几乎所有能在一门]编程语言中找到的功能，在Java中都能找到。</p>
+<blockquote>
+<h4 id="java的三大版本"><a href="#java的三大版本" class="headerlink" title="java的三大版本"></a>java的三大版本</h4></blockquote>
+<ul>
+<li>JavaSE</li>
+<li>JavaME</li>
+<li>JavaEE</li>
+</ul>
+<h6 id="JavaSE"><a href="#JavaSE" class="headerlink" title="JavaSE:"></a>JavaSE:</h6><p>​         标准版，java的基础以及核心一般用于桌面程序以及控制台开发。</p>
+<h6 id="JavaME："><a href="#JavaME：" class="headerlink" title="JavaME："></a>JavaME：</h6><p>​         微缩版，嵌入式开发，用于手机程序的开发之类的(基本凉了)。         </p>
+<h6 id="JavaEE"><a href="#JavaEE" class="headerlink" title="JavaEE:"></a>JavaEE:</h6><p>​         企业版：企业级开发，用于网站的开发、应用系统、服务器端的开发。</p>
+<blockquote>
+<h4 id="JDK、JRE、JVM"><a href="#JDK、JRE、JVM" class="headerlink" title="JDK、JRE、JVM"></a>JDK、JRE、JVM</h4></blockquote>
+<ul>
+<li>JDK</li>
+<li>JRE</li>
+<li>JVM</li>
+</ul>
+<p>JDK：Java Development Kit，Java开发者工具包，用来开发Java程序的，针对java开发者。。</p>
+<p>JRE：Java Runtime Environment，Java运行环境，针对java用户。</p>
+<p>JVM：Java Virtual Machine，java虚拟机 用来解释执行字节码文件(class文件)。</p>
+<blockquote>
+<h4 id="数据类型"><a href="#数据类型" class="headerlink" title="数据类型"></a>数据类型</h4></blockquote>
+<p>​     java数据类型分为二种：</p>
+<ol>
+<li><p><strong>基本数据类型：有八种基本数据类型来存储数值、字符和布尔类型。如图</strong></p>
+<table>
+<thead>
+<tr>
+<th>整数类型</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>数据类型</td>
+<td>内存空间(8位等于1字节)</td>
+<td>默认值</td>
+<td>取值范围</td>
+</tr>
+<tr>
+<td>byte(字节型)</td>
+<td>8位</td>
+<td>0</td>
+<td>-128 ~ +127(-2⁷ to 2⁷-1)</td>
+</tr>
+<tr>
+<td>short(短整型)</td>
+<td>16位</td>
+<td>0</td>
+<td>-2¹⁵  ~ +2¹⁵-1</td>
+</tr>
+<tr>
+<td>int(整型)</td>
+<td>32位</td>
+<td>0</td>
+<td>-2₃¹ ~ +2₃¹-1</td>
+</tr>
+<tr>
+<td>long(长整型)</td>
+<td>64位</td>
+<td>0</td>
+<td>-2⁶³  ~ +2⁶³-1</td>
+</tr>
+<tr>
+<td><strong>浮点数数据类型</strong></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>float(单精度)</td>
+<td>32位</td>
+<td>0.0</td>
+<td>+/-3.40282347E+38(6-7位有效数字)</td>
+</tr>
+<tr>
+<td>double(双精度)</td>
+<td>64位</td>
+<td>0.0</td>
+<td>+/-1.7976931346231570E+308(15位有效数字)</td>
+</tr>
+<tr>
+<td><strong>布尔类型</strong></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>boolean</td>
+<td></td>
+<td>false</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>字符型</strong></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>char</td>
+<td></td>
+<td>\u0000</td>
+<td></td>
+</tr>
+</tbody></table>
+<p><img src= "https://cdn.jsdelivr.net/gh/weilining/img@main/img/loading.gif" data-lazy-src="C:\Users\随便\AppData\Roaming\Typora\typora-user-images\image-20210516140045510.png" alt="image-20210516140045510"></p>
+</li>
+</ol>
+<pre><code> &gt;  顺便附上一份ASCll字符码表格
+
+ | ASCll字符对照表 |          |                          |
+ | --------------- | -------- | ------------------------ |
+ | 十进制          | 十六进制 | 对应字符(注意区分大小写) |
+ | 97              | 61       | a                        |
+ | 98              | 62       | b                        |
+ | 99              | 63       | c                        |
+ | 100             | 64       | d                        |
+ | 101             | 65       | e                        |
+ | 102             | 66       | f                        |
+ | 103             | 67       | g                        |
+ | 104             | 68       | h                        |
+ | 105             | 69       | i                        |
+ | 106             | 6A       | j                        |
+ | 107             | 6B       | k                        |
+ | 108             | 6C       | l                        |
+ | 109             | 6D       | m                        |
+ | 110             | 6E       | n                        |
+ | 111             | 6F       | o                        |
+ | 112             | 70       | p                        |
+ | 113             | 71       | q                        |
+ | 114             | 72       | r                        |
+ | 115             | 73       | s                        |
+ | 116             | 74       | t                        |
+ | 117             | 75       | u                        |
+ | 118             | 76       | v                        |
+ | 119             | 77       | w                        |
+ | 120             | 78       | x                        |
+ | 121             | 79       | y                        |
+ | 122             | 7A       | z                        |
+ | 65              | 41       | A                        |
+ | 66              | 42       | B                        |
+ | 67              | 43       | C                        |
+ | 68              | 44       | D                        |
+ | 69              | 45       | E                        |
+ | 70              | 46       | F                        |
+ | 71              | 47       | G                        |
+ | 72              | 48       | H                        |
+ | 73              | 49       | I                        |
+ | 74              | 4A       | J                        |
+ | 75              | 4B       | K                        |
+ | 76              | 4C       | L                        |
+ | 77              | 4D       | M                        |
+ | 78              | 4E       | N                        |
+ | 79              | 4F       | O                        |
+ | 80              | 50       | P                        |
+ | 81              | 51       | Q                        |
+ | 82              | 52       | R                        |
+ | 83              | 53       | S                        |
+ | 84              | 54       | T                        |
+ | 85              | 55       | U                        |
+ | 86              | 56       | V                        |
+ | 87              | 57       | W                        |
+ | 88              | 58       | X                        |
+ | 89              | 59       | Y                        |
+ | 90              | 5A       | Z                        |
+
+
+
+ 扩展点：浮点数float的舍入误差问题，这个问题出入于float的一个数据存入的关系，由于计算机的存储是二进制的，而我们的数据则是十进制的，我们需要将十进制转换成二进制。具体请参考：[浮点数float累加误差分析与解决_zhrh0096的专栏-CSDN博客_浮点数累加](https://blog.csdn.net/zhrh0096/article/details/38589067)。</code></pre>
+<ol start="2">
+<li><p><strong>引用数据类型：分为3部分，分别是类(class)、接口(interface)、数组。</strong></p>
+<ul>
+<li>类：<ol>
+<li>Object:类 </li>
+<li>String：字符串</li>
+<li>Date：表示特定瞬间，精确到毫秒</li>
+<li>Void：一个不可实例化的占位符类，它保持一个对代表 Java 关键字 void 的 Class 对象的引用。</li>
+</ol>
+</li>
+<li>接口：接口(interface)是抽象方法和常量值的定义的集合，自己可以创建的就不进行一个赘述了。</li>
+<li>数组：存储在<strong>一个连续的</strong>内存块中的<strong>相同数据类型（引用数据类型）</strong>的元素集合(这里就简单说明一下，后面会说的详细一点)。</li>
+</ul>
+</li>
+</ol>
+<p>​        </p>
+<blockquote>
+<h4 id="类型转换"><a href="#类型转换" class="headerlink" title="类型转换"></a>类型转换</h4></blockquote>
+<ul>
+<li>强制转换</li>
+<li>自动转换</li>
+</ul>
+<p>强制转换：由高到底</p>
+<p>自动转换：由低到高</p>
+<p>注意点：</p>
+<ol>
+<li>不能对布尔值进行转换</li>
+<li>不能把对象转换为不相干的类型</li>
+<li>把高容量转换低容量强制转换</li>
+<li>转换可能存在内存溺出问题，或者精度问题</li>
+</ol>
+<p>三元运算符</p>
+<p>​        示例:</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">test</span><span class="params">()</span></span>&#123;</span><br><span class="line">        <span class="comment">//语法:x ? y:z</span></span><br><span class="line">        <span class="comment">//如果说x=true,则结果为y,否则为z</span></span><br><span class="line">        <span class="keyword">int</span> count=<span class="number">80</span>;</span><br><span class="line">        String type= count&gt;<span class="number">60</span>?<span class="string">&quot;及格&quot;</span>:<span class="string">&quot;不及格&quot;</span>;</span><br><span class="line">        System.out.println(type);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+
+<blockquote>
+<h4 id="用户交互Scanner-这玩意我真忘掉了，还以为是什么新知识"><a href="#用户交互Scanner-这玩意我真忘掉了，还以为是什么新知识" class="headerlink" title="用户交互Scanner(这玩意我真忘掉了，还以为是什么新知识)"></a>用户交互Scanner(这玩意我真忘掉了，还以为是什么新知识)</h4></blockquote>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line">java.util.Scanner;</span><br><span class="line"><span class="comment">//基本的语法</span></span><br><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String [] args)</span></span>&#123;</span><br><span class="line">        Scanner scanner=<span class="keyword">new</span> Scanner(System.in);</span><br><span class="line">        System.out.println(<span class="string">&quot;使用next方式接收：&quot;</span>);</span><br><span class="line"></span><br><span class="line">        <span class="comment">//判断用户有没有输入字符串</span></span><br><span class="line">        <span class="keyword">if</span>(scanner.hasNext())&#123;</span><br><span class="line">            String str=scanner.next();</span><br><span class="line">            System.out.println(<span class="string">&quot;输出的内容为：&quot;</span>+str);</span><br><span class="line">        &#125;</span><br><span class="line">        scanner.close();</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>Scanner是java5的新特性，用于接收用户的输入的信息</p>
+<p>通过Scanner类的next()与nextLine()方法获取输入的字符串，在读取前一般使用hasNext()与hasNextLine()判断是否还有输入的数据</p>
+<p>next():</p>
+<pre><code>        1. 一定要读到有效字符才能输出
+        2. 对于输出有效字符串后空白才会去除，next()方法才会自动去除掉
+        3. next()不能有带空格的字符串</code></pre>
+<p>nextLine():</p>
+<pre><code>1. 以Enter为结束符，也就是说nextLine()方法返回的是输入回车之前所有字符
+ 2. 可以获得空白</code></pre>
+<blockquote>
+<h4 id="选择结构-这东西完全忘不掉的，可跳过这方面"><a href="#选择结构-这东西完全忘不掉的，可跳过这方面" class="headerlink" title="选择结构(这东西完全忘不掉的，可跳过这方面)"></a>选择结构(这东西完全忘不掉的，可跳过这方面)</h4></blockquote>
+<ul>
+<li>if单选择结构</li>
+<li>if双选择结构</li>
+<li>if多选择结构</li>
+<li>嵌套if使用</li>
+<li>switch多选择结构</li>
+</ul>
+<p>这里我直接上代码了。。。</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//if单选择结构</span></span><br><span class="line"><span class="keyword">if</span>(布尔表达式)&#123;</span><br><span class="line">	<span class="comment">//如果表达式为true执行这里面的            </span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">//if双选择结构</span></span><br><span class="line"><span class="keyword">if</span>(布尔表达式)&#123;</span><br><span class="line">    <span class="comment">//如果表达式为true执行这里面的</span></span><br><span class="line">&#125;<span class="keyword">else</span>&#123;</span><br><span class="line">    <span class="comment">//如果上面的判断不为true则执行这里面的</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">//if多选择结构</span></span><br><span class="line"><span class="keyword">if</span>(布尔表达式 <span class="number">1</span>)&#123;</span><br><span class="line">    <span class="comment">//如果表达式1为true执行这里面的</span></span><br><span class="line">&#125;<span class="keyword">else</span> <span class="keyword">if</span>(布尔表达式<span class="number">2</span>)&#123;</span><br><span class="line">     <span class="comment">//如果表达式2为true执行这里面的</span></span><br><span class="line">&#125;<span class="keyword">else</span> <span class="keyword">if</span>(布尔表达式<span class="number">3</span>)&#123;</span><br><span class="line">     <span class="comment">//如果表达式3为true执行这里面的</span></span><br><span class="line">&#125;<span class="keyword">else</span>&#123;</span><br><span class="line">     <span class="comment">//如果以上布尔值都不为true执行这里面的</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">//嵌套if使用</span></span><br><span class="line"><span class="keyword">if</span>(布尔表达式<span class="number">1</span>)&#123;</span><br><span class="line">	<span class="comment">//如果表达式1为true执行这里面的 </span></span><br><span class="line">    <span class="keyword">if</span>(布尔表达式<span class="number">2</span>)&#123;</span><br><span class="line">		<span class="comment">//如果表达式1和2都为true执行这里面的            </span></span><br><span class="line">	&#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">//switch多选择结构</span></span><br><span class="line"><span class="keyword">switch</span>(需要判断的变量)&#123;</span><br><span class="line">    <span class="keyword">case</span> 需要判断的数据<span class="number">1</span>:</span><br><span class="line">        <span class="comment">//执行内容</span></span><br><span class="line">    <span class="keyword">break</span>;<span class="comment">//没有break，会有case的穿透现象，要注意</span></span><br><span class="line">        </span><br><span class="line">    <span class="keyword">case</span> 需要判断的数据<span class="number">2</span>:</span><br><span class="line">        <span class="comment">//执行内容2</span></span><br><span class="line">    <span class="keyword">break</span>;</span><br><span class="line">        </span><br><span class="line">    <span class="keyword">default</span>:</span><br><span class="line">        <span class="comment">//以上判断都都不成立执行这里</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+
+<blockquote>
+<h4 id="循环结构-已经刻入DNA也是忘不了，跳过吧"><a href="#循环结构-已经刻入DNA也是忘不了，跳过吧" class="headerlink" title="循环结构(已经刻入DNA也是忘不了，跳过吧)"></a>循环结构(已经刻入DNA也是忘不了，跳过吧)</h4></blockquote>
+<ul>
+<li>while循环</li>
+<li>do_while循环</li>
+<li>for循环</li>
+</ul>
+<p>直接上代码了</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//while循环</span></span><br><span class="line"><span class="keyword">while</span>(布尔表达式)&#123;</span><br><span class="line">	<span class="comment">//循环内容，别死循环了</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">//do_while循环</span></span><br><span class="line"><span class="comment">//不满足条件都需要至少执行一次</span></span><br><span class="line"><span class="keyword">do</span>&#123;</span><br><span class="line">    <span class="comment">//执行内容</span></span><br><span class="line">&#125;<span class="keyword">while</span>(布尔表达式);</span><br><span class="line"></span><br><span class="line"><span class="comment">//for循环，我个人经常用的</span></span><br><span class="line"><span class="keyword">for</span>(初始化;布尔表达式;更新)&#123;</span><br><span class="line">    <span class="comment">//循环内容</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">//扩展，增强版for循环，也是我个人经常用的</span></span><br><span class="line"><span class="comment">//主要用于遍历数组和集合</span></span><br><span class="line"><span class="keyword">for</span>(声明语句:表达式)&#123;</span><br><span class="line">    <span class="comment">//代码内容</span></span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//示例</span></span><br><span class="line"> <span class="meta">@Test</span></span><br><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">test2</span><span class="params">()</span></span>&#123;</span><br><span class="line">   <span class="keyword">int</span> []count=&#123;<span class="number">10</span>,<span class="number">20</span>,<span class="number">30</span>,<span class="number">40</span>,<span class="number">50</span>&#125;;<span class="comment">//声明一个数组</span></span><br><span class="line">   <span class="keyword">for</span>(<span class="keyword">int</span> x:count)&#123;</span><br><span class="line">       System.out.println(x);<span class="comment">//循环遍历</span></span><br><span class="line">   &#125;</span><br><span class="line">    System.out.println(count[<span class="number">2</span>]);<span class="comment">//取第三位的值，因为下标是从0开始取值的</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+
+<blockquote>
+<p>流程控制</p>
+</blockquote>
+<p>​         break：用于任何循环语句主体部分，可以使用break控制循环流程，break用于强制退出，不执行剩余的语句</p>
+<p>​         continue：终止本次循环，进入下一次循环</p>
+<p>​         goto(了解)：goto常被用于跳出多重循环。但goto 语句的使用往往会使程序的可读性降低，所以 Java 不允许 goto 跳转。</p>
+<blockquote>
+<h4 id="方法的重载"><a href="#方法的重载" class="headerlink" title="方法的重载"></a>方法的重载</h4></blockquote>
+<p>重载：就是一个类中有相同的函数名称，但是形参不同的函数。</p>
+<p>规则：</p>
+<pre><code>        1. 名称必须相同
+           2. 参数列表不同、个数不同、类型不同、排列顺序不同
+           3. 返回值可以相同可以不同，但是不足以成为重载的信息</code></pre>
+<blockquote>
+<h4 id="数组"><a href="#数组" class="headerlink" title="数组"></a>数组</h4></blockquote>
+<p>数组的定义：数组就是相同类型数据的有序集合，按照存入的先后顺序组合排列起来，每一个元素我们都可以用下标去进行访问。</p>
+<p>数组的基本特点：</p>
+<pre><code>        1. 长度是确定的，一旦创建就不能进行更改，大小也是不能改变的。
+           2. 数组中的类型可以是任意的数据类型，包括基本类型和引用类型。元素必须是相同类型，不允许出现混合。
+           3. 数组本身也是引用类型，数组也可以看作是对象，数组中每一个元素都可以看成对象的成员变量，数组的对象本身就在于堆中。</code></pre>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//数组定义</span></span><br><span class="line"><span class="comment">//变量的类型 [] 变量名称=变量的值;</span></span><br><span class="line"><span class="comment">//定义一个数组</span></span><br><span class="line"><span class="keyword">int</span>[] count;</span><br><span class="line">count=<span class="keyword">new</span> <span class="keyword">int</span>[<span class="number">10</span>];<span class="comment">//定义范围10个数字</span></span><br><span class="line">count[<span class="number">0</span>]=<span class="number">1</span>;<span class="comment">//逐个赋值</span></span><br><span class="line">count[<span class="number">1</span>]=<span class="number">2</span>;</span><br><span class="line">count[<span class="number">2</span>]=<span class="number">3</span>;</span><br><span class="line">count[<span class="number">3</span>]=<span class="number">4</span>;</span><br><span class="line">count[<span class="number">4</span>]=<span class="number">5</span>;</span><br><span class="line">count[<span class="number">5</span>]=<span class="number">6</span>;</span><br><span class="line">count[<span class="number">6</span>]=<span class="number">7</span>;</span><br><span class="line">count[<span class="number">7</span>]=<span class="number">8</span>;</span><br><span class="line">count[<span class="number">8</span>]=<span class="number">9</span>;</span><br><span class="line">count[<span class="number">9</span>]=<span class="number">10</span>;</span><br><span class="line"><span class="keyword">for</span>(<span class="keyword">int</span> <span class="number">1</span>;i&lt;count.length;i++)&#123;<span class="comment">//获取数组下标</span></span><br><span class="line">    System.out.println(count[i]);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+
+<p>数组分为三种初始化方法：</p>
+<ol>
+<li><p>静态初始化</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">int</span> [] count=&#123;<span class="number">1</span>,<span class="number">2</span>,<span class="number">3</span>&#125;</span><br><span class="line"><span class="comment">//数据类型[] 数组名称 = &#123;值, 值, …&#125;;</span></span><br></pre></td></tr></table></figure>
+
+
+</li>
+</ol>
+<ol start="2">
+<li><p>动态初始化</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">int [] count&#x3D;new int[2];</span><br><span class="line">count[0]&#x3D;1;</span><br><span class="line">count[1]&#x3D;2</span><br></pre></td></tr></table></figure>
+
+
+</li>
+</ol>
+<ol start="3">
+<li><p>默认初始化</p>
+<p>​     数组是引用类型，他的元素相当于类的实例变量，因此数组的一经分配空间，其中每个元素也会按照实例变量同样的方式被隐式初始化</p>
+</li>
+</ol>
+<blockquote>
+<p>多维数组</p>
+</blockquote>
+<p>​         多维数组可以看成数组中的数组，比如二位数组就是一个特殊的一维数组，每一个数组都是一个一维数组</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//二维数组</span></span><br><span class="line"><span class="keyword">int</span> count[][]=&#123;&#123;<span class="number">1</span>,<span class="number">2</span>&#125;,&#123;<span class="number">2</span>,<span class="number">3</span>&#125;,&#123;<span class="number">3</span>,<span class="number">4</span>&#125;,&#123;<span class="number">4</span>,<span class="number">5</span>&#125;&#125;</span><br></pre></td></tr></table></figure>
+<p><img src= "https://cdn.jsdelivr.net/gh/weilining/img@main/img/loading.gif" data-lazy-src="C:\Users\随便\Desktop\csdn图片\erweishuzu.png" alt="erweishuzu"></p>
+<blockquote>
+<p>Arrays类</p>
+</blockquote>
+<ul>
+<li>数组的工具类java.util.Arrays</li>
+<li>具有一下这几种功能<ul>
+<li>给数组进行赋值：通过fill方法</li>
+<li>对数组进行排序通过sort方法，按升序</li>
+<li>比较数组：通过equals方法比较数组元素是否相等</li>
+<li>查找数组元素：通过binarySearch方法对排序好的数组进行二分查找法操作</li>
+</ul>
+</li>
+</ul>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">int</span> [] a=&#123;<span class="number">5</span>,<span class="number">1</span>,<span class="number">2</span>,<span class="number">3</span>,<span class="number">4</span>&#125;;</span><br><span class="line"><span class="comment">//利用Arrays工具类打印数组元素</span></span><br><span class="line">System.out.println(Arrays.toString(a));</span><br><span class="line"><span class="comment">//排序输出,升序</span></span><br><span class="line">Arrays.sort(a);</span><br><span class="line">System.out.println(Arrays.toString(a));</span><br><span class="line"><span class="comment">//数组填充,将a中所有的元素用0填充</span></span><br><span class="line">Arrays.fill(a,<span class="number">0</span>);</span><br><span class="line"><span class="comment">//数组填充,将a中2到4的元素用0填充</span></span><br><span class="line">Arrays.fill(a,<span class="number">2</span>,<span class="number">4</span>,<span class="number">0</span>);</span><br></pre></td></tr></table></figure>
+
+
+<blockquote>
+<p>排序</p>
+</blockquote>
+<p>java中一共有八大排序算法：</p>
+<ol>
+<li>直接插入排序</li>
+<li>希尔排序</li>
+<li>简单选择排序</li>
+<li>堆排序</li>
+<li>冒泡排序</li>
+<li>快速排序</li>
+<li>归并排序</li>
+<li>基数排序</li>
+</ol>
+<p>直接插入排序：直接插入排序需要依次每次选出一个数据，插入到之前排序的数组的合适位置后，插入前要把该位置后面的数据都要后移一个位置，不断循环直到完全插入数据，完成排序。</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">/*</span></span><br><span class="line"><span class="comment">*实现直接插入排序</span></span><br><span class="line"><span class="comment">*/</span></span><br><span class="line">	<span class="comment">//声明一个数组</span></span><br><span class="line">    <span class="keyword">int</span> [] array=&#123;<span class="number">21</span>,<span class="number">6</span>,<span class="number">8</span>,<span class="number">30</span>,<span class="number">452</span>,<span class="number">300</span>,<span class="number">53</span>,<span class="number">12</span>,<span class="number">2</span>,<span class="number">1</span>,<span class="number">5</span>&#125;;</span><br><span class="line">	</span><br><span class="line">	<span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">insertion</span><span class="params">(<span class="keyword">int</span>[] array)</span></span>&#123;</span><br><span class="line">        <span class="keyword">int</span> count=<span class="number">0</span>;</span><br><span class="line">        <span class="keyword">int</span> i;</span><br><span class="line">        <span class="keyword">int</span> j;</span><br><span class="line">        <span class="keyword">for</span> (i = <span class="number">1</span>; i &lt; array.length; i++) &#123;</span><br><span class="line">            count=array[i];<span class="comment">//选中需要插入的数据将其往下推一格</span></span><br><span class="line">            <span class="keyword">for</span>(j=i-<span class="number">1</span>;j &gt;= <span class="number">0</span> &amp;&amp; count &lt; array[j];j--)&#123;</span><br><span class="line">                array[j + <span class="number">1</span>] = array[j];<span class="comment">//将大于count的值整体后移一个单位</span></span><br><span class="line">            &#125;</span><br><span class="line">            array[j + <span class="number">1</span>] =count;</span><br><span class="line">        &#125;</span><br><span class="line">        System.out.println(Arrays.toString(array));<span class="comment">//输出</span></span><br><span class="line">    &#125;</span><br></pre></td></tr></table></figure>
+<p>希尔排序：希尔排序算是比较难理解一点的了，简单来说就是插入排序的另外一种方式，更加高效，将一组已经排序好了的数组插入进入另外一组排序好的数组。</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//实现希尔排序,用到上面的数组</span></span><br><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">hill</span><span class="params">(<span class="keyword">int</span>[] array)</span></span>&#123;</span><br><span class="line">       <span class="comment">//先获取数组的长度</span></span><br><span class="line">        <span class="keyword">int</span> count=array.length;</span><br><span class="line">        <span class="comment">//第一个循环决定比较间隔</span></span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i=count/<span class="number">2</span>;i&gt;<span class="number">0</span>;i=i/<span class="number">2</span>)&#123;</span><br><span class="line">            <span class="comment">//第二个循环根据间隔将数组分为若干的数组</span></span><br><span class="line">            <span class="keyword">for</span>(<span class="keyword">int</span> j=i;j&lt;count;j++)&#123;</span><br><span class="line">                <span class="comment">//第三个循环，再子数组插入排序算法</span></span><br><span class="line">                <span class="keyword">for</span>(<span class="keyword">int</span> k=j;k&gt;=i &amp;&amp; array[k]&lt;array[k-i];k=k-i)&#123;</span><br><span class="line">                    <span class="keyword">int</span> temp=array[k];</span><br><span class="line">                    array[k]=array[k-i];</span><br><span class="line">                    array[k-i]=temp;</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        printArray(array);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>简单选择排序：在一组数据中选出最小的数和第一个交换，然后在选出最小的数和第二个进行交换</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//实现简单选择排序</span></span><br><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">simpleness</span><span class="params">(<span class="keyword">int</span>[] array)</span></span>&#123;</span><br><span class="line">        <span class="keyword">int</span> count=<span class="number">0</span>;</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">0</span>;i&lt;array.length;i++)&#123;<span class="comment">//遍历所有的数据</span></span><br><span class="line">            count=i;<span class="comment">//需要遍历的游标值</span></span><br><span class="line">            <span class="keyword">int</span> temp=array[i];<span class="comment">//游标值对应的数值</span></span><br><span class="line">            <span class="keyword">for</span>(<span class="keyword">int</span> j=i+<span class="number">1</span>;j&lt;array.length;j++)&#123;<span class="comment">//遍历最小值</span></span><br><span class="line">                <span class="keyword">if</span>(array[j]&lt;temp)&#123;<span class="comment">//如果temp比下面数据大就交换</span></span><br><span class="line">                    temp=array[j];</span><br><span class="line">                    count=j;</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line">            <span class="comment">//将数据的最小值和第一个数进行交换</span></span><br><span class="line">            array[count]=array[i];</span><br><span class="line">            array[i]=temp;</span><br><span class="line">        &#125;</span><br><span class="line">        printArray(array);</span><br><span class="line">    &#125;</span><br></pre></td></tr></table></figure>
+<p>堆排序：最麻烦的…堆排序(Heapsort)是指利用堆这种数据结构所设计的一种排序算法，它是选择排序的一种。可以利用数组的特点快速定位指定索引的元素。堆分为大顶堆和小顶堆，是<strong>完全二叉树</strong>，二叉树就是一个根有两个节点或一个节点，并且根节点的值一定比支点的值大，简单理解就是不断建堆，交换元素最后完成排序。为了能简单理解直接看图吧(图片源于百度)。</p>
+<p><img src= "https://cdn.jsdelivr.net/gh/weilining/img@main/img/loading.gif" data-lazy-src="C:\Users\随便\Desktop\csdn图片\849589-20171015231308699-356134237.gif" alt="849589-20171015231308699-356134237"></p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//实现堆排序</span></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">void</span>  <span class="title">heapsort</span><span class="params">(<span class="keyword">int</span>[] array)</span></span>&#123;</span><br><span class="line">        <span class="comment">//取下标</span></span><br><span class="line">        <span class="keyword">int</span> arrayLength=array.length;</span><br><span class="line">        <span class="comment">//循环建堆</span></span><br><span class="line">        <span class="comment">//循环建堆</span></span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">int</span> i = <span class="number">0</span>; i &lt; arrayLength - <span class="number">1</span>; i++) &#123;</span><br><span class="line">            <span class="comment">//建堆</span></span><br><span class="line">            buildMaxHeap(array, arrayLength - <span class="number">1</span> - i);</span><br><span class="line">            <span class="comment">//交换堆顶和最后一个元素</span></span><br><span class="line">            swap(array, <span class="number">0</span>, arrayLength - <span class="number">1</span> - i);</span><br><span class="line">            <span class="comment">//建堆并交换后的数据</span></span><br><span class="line">        &#125;</span><br><span class="line">        <span class="comment">//输出排列好的数组</span></span><br><span class="line">        printArray(array);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">private</span>  <span class="keyword">void</span> <span class="title">swap</span><span class="params">(<span class="keyword">int</span>[] data, <span class="keyword">int</span> i, <span class="keyword">int</span> j)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">int</span> tmp = data[i];</span><br><span class="line">        data[i] = data[j];</span><br><span class="line">        data[j] = tmp;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">//对data数组从0到lastIndex建大顶堆</span></span><br><span class="line">    <span class="function"><span class="keyword">private</span>  <span class="keyword">void</span> <span class="title">buildMaxHeap</span><span class="params">(<span class="keyword">int</span>[] data, <span class="keyword">int</span> lastIndex)</span> </span>&#123;</span><br><span class="line">        <span class="comment">//从lastIndex处节点（最后一个节点）的父节点开始</span></span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">int</span> i = (lastIndex - <span class="number">1</span>) / <span class="number">2</span>; i &gt;= <span class="number">0</span>; i--) &#123;</span><br><span class="line">            <span class="comment">//k保存正在判断的节点</span></span><br><span class="line">            <span class="keyword">int</span> k = i;</span><br><span class="line">            <span class="comment">//如果当前k节点的子节点存在</span></span><br><span class="line">            <span class="keyword">while</span> (k * <span class="number">2</span> + <span class="number">1</span> &lt;= lastIndex) &#123;</span><br><span class="line">                <span class="comment">//k节点的左子节点的索引</span></span><br><span class="line">                <span class="keyword">int</span> biggerIndex = <span class="number">2</span> * k + <span class="number">1</span>;</span><br><span class="line">                <span class="comment">//如果biggerIndex小于lastIndex，即biggerIndex+1代表的k节点的右子节点存在</span></span><br><span class="line">                <span class="keyword">if</span> (biggerIndex &lt; lastIndex) &#123;</span><br><span class="line">                    <span class="comment">//若果右子节点的值较大</span></span><br><span class="line">                    <span class="keyword">if</span> (data[biggerIndex] &lt; data[biggerIndex + <span class="number">1</span>]) &#123;</span><br><span class="line">                        <span class="comment">//biggerIndex总是记录较大子节点的索引</span></span><br><span class="line">                        biggerIndex++;</span><br><span class="line">                    &#125;</span><br><span class="line">                &#125;</span><br><span class="line">                <span class="comment">//如果k节点的值小于其较大的子节点的值</span></span><br><span class="line">                <span class="keyword">if</span> (data[k] &lt; data[biggerIndex]) &#123;</span><br><span class="line">                    <span class="comment">//交换他们</span></span><br><span class="line">                    swap(data, k, biggerIndex);</span><br><span class="line">                    <span class="comment">//将biggerIndex赋予k，开始while循环的下一次循环，重新保证k节点的值大于其左右子节点的值</span></span><br><span class="line">                    k = biggerIndex;</span><br><span class="line">                &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">                    <span class="keyword">break</span>;</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br></pre></td></tr></table></figure>
+<p>冒泡排序：将二个相邻的数进行比较和互换，大的数下沉，小的数上浮。</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//实现冒泡排序</span></span><br><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">bubbling</span><span class="params">(<span class="keyword">int</span>[] array)</span></span>&#123;</span><br><span class="line">        <span class="keyword">int</span> count = <span class="number">0</span>;</span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">int</span> i = <span class="number">1</span>; i &lt; array.length; i++) &#123;</span><br><span class="line">            <span class="keyword">for</span> (<span class="keyword">int</span> j = <span class="number">1</span>; j &lt; array.length - i; j++) &#123;</span><br><span class="line">                <span class="keyword">if</span> (array[j] &gt; array[j + <span class="number">1</span>]) &#123;</span><br><span class="line">                    count = array[j];</span><br><span class="line">                    array[j] = array[j + <span class="number">1</span>];</span><br><span class="line">                    array[j + <span class="number">1</span>] = count;</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="comment">//输出排列好的数组</span></span><br><span class="line">        printArray(array);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>快速排序：冒泡排序的一种，随机选中一个值放到一个合适的位置(感觉太抽象了)，就比如说选择数组的第一个指，先从右往左跑找到一个小于第一个数的，在从左向右跑找到一个比第一个数大的进行交换，重复完成排序</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//调用</span></span><br><span class="line">test.quickSort(array,<span class="number">0</span>,array.length-<span class="number">1</span>);</span><br><span class="line"><span class="comment">//实现快速排序</span></span><br><span class="line"> <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">quickSort</span><span class="params">(<span class="keyword">int</span>[] array,<span class="keyword">int</span> low,<span class="keyword">int</span> high)</span></span>&#123;</span><br><span class="line">        <span class="keyword">int</span> i;</span><br><span class="line">        <span class="keyword">int</span> j;</span><br><span class="line">        <span class="keyword">int</span> temp;</span><br><span class="line"></span><br><span class="line">        <span class="keyword">if</span>(low&gt;high)&#123;</span><br><span class="line">            <span class="keyword">return</span>;</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        i=low;</span><br><span class="line">        j=high;</span><br><span class="line">        temp=array[low];<span class="comment">//以左边位基准</span></span><br><span class="line"></span><br><span class="line">        <span class="keyword">while</span>(i&lt;j)&#123;</span><br><span class="line">            <span class="comment">//先看右边，依次往左边替增</span></span><br><span class="line">            <span class="keyword">while</span> (temp&lt;=array[j]&amp;&amp;i&lt;j)&#123;</span><br><span class="line">                j--;</span><br><span class="line">            &#125;</span><br><span class="line">            <span class="comment">//再看左边，依次往右递增</span></span><br><span class="line">            <span class="keyword">while</span> (temp&gt;=array[i]&amp;&amp;i&lt;j) &#123;</span><br><span class="line">                i++;</span><br><span class="line">            &#125;</span><br><span class="line">            <span class="comment">//如果满足条件则交换</span></span><br><span class="line">            <span class="keyword">if</span> (i&lt;j) &#123;</span><br><span class="line">                <span class="keyword">int</span> z = array[i];</span><br><span class="line">                <span class="keyword">int</span> y = array[j];</span><br><span class="line"></span><br><span class="line">                array[i] = y;</span><br><span class="line">                array[j] = z;</span><br><span class="line">            &#125;</span><br><span class="line"></span><br><span class="line">            <span class="comment">//最后将基准为与i和j相等位置的数字交换</span></span><br><span class="line">            array[low] = array[i];</span><br><span class="line">            array[i] = temp;</span><br><span class="line">            <span class="comment">//递归调用左半数组</span></span><br><span class="line">            quickSort(array, low, j-<span class="number">1</span>);</span><br><span class="line">            <span class="comment">//递归调用右半数组</span></span><br><span class="line">            quickSort(array, j+<span class="number">1</span>, high);</span><br><span class="line">        &#125;</span><br><span class="line">        printArray(array);</span><br><span class="line">    &#125;</span><br></pre></td></tr></table></figure>
+<p>归并排序：和希尔排序基本属性同理，利用递归主要是拆分以及合并这二步，基本上可以理解将一组数据拆分成二组，然后再进行拆分，直到变成单个数据再进行比较合并。</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//实现归并排序</span></span><br><span class="line">test.merging(array,<span class="number">0</span>,array.length-<span class="number">1</span>);</span><br><span class="line">System.out.println(Arrays.toString(array));</span><br><span class="line"><span class="comment">//参考了下别人的写法</span></span><br><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">merging</span><span class="params">(<span class="keyword">int</span>[] array,<span class="keyword">int</span> low,<span class="keyword">int</span> high)</span></span>&#123;</span><br><span class="line">        <span class="keyword">int</span> count = (low + high) / <span class="number">2</span>;</span><br><span class="line"></span><br><span class="line">        <span class="keyword">if</span> (low &gt;= high) &#123;<span class="comment">//分到最后一个元素时退出递归</span></span><br><span class="line">            <span class="keyword">return</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        merging(array, low, count);</span><br><span class="line">        merging(array, count + <span class="number">1</span>, high);</span><br><span class="line">        merge(array, low, count, high);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">private</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">merge</span><span class="params">(<span class="keyword">int</span>[] ans, <span class="keyword">int</span> left, <span class="keyword">int</span> mid, <span class="keyword">int</span> right)</span> </span>&#123;</span><br><span class="line">        <span class="comment">//声明三个计时器</span></span><br><span class="line">        <span class="keyword">int</span> Actr = left;</span><br><span class="line">        <span class="keyword">int</span> Bctr = mid + <span class="number">1</span>;</span><br><span class="line">        <span class="keyword">int</span> Cctr = <span class="number">0</span>;</span><br><span class="line">        <span class="keyword">int</span> lenA = mid - left + <span class="number">1</span>;</span><br><span class="line">        <span class="keyword">int</span> lenB = right - mid;</span><br><span class="line">        <span class="comment">//创建临时数组,长度为A，B数组长度之和</span></span><br><span class="line">        <span class="keyword">int</span>[] tmp = <span class="keyword">new</span> <span class="keyword">int</span>[right - left + <span class="number">1</span>];</span><br><span class="line">        <span class="comment">//循环A，B中长度较短的长度次数的二倍的次数</span></span><br><span class="line">        <span class="keyword">while</span> (Actr &lt;= mid &amp;&amp; Bctr &lt;= right) &#123;</span><br><span class="line">            <span class="keyword">if</span> (ans[Actr] &lt;= ans[Bctr]) &#123;</span><br><span class="line">                tmp[Cctr++] = ans[Actr];</span><br><span class="line">                Actr++;</span><br><span class="line">            &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">                tmp[Cctr++] = ans[Bctr];</span><br><span class="line">                Bctr++;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="comment">//如果左边的还有剩余，将左边剩余的归并</span></span><br><span class="line">        <span class="keyword">while</span> (Actr &lt;= mid)&#123;</span><br><span class="line">            tmp[Cctr ++] = ans[Actr ++];</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="comment">//如果右边的还有剩余，将右边剩余的归并</span></span><br><span class="line">        <span class="keyword">while</span> (Bctr &lt;= right)&#123;</span><br><span class="line">            tmp[Cctr ++] = ans[Bctr ++];</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="comment">//将临时数组更新到原数组</span></span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">int</span> i = <span class="number">0</span>; i &lt; tmp.length; i++) &#123;</span><br><span class="line">            ans[left++] = tmp[i];</span><br><span class="line">        &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<p>基数排序：基数排序属于“分配式排序”，它通过元素的各个位的值，将元素放置对应的“桶”中，就相当于分配一个0-9的桶，将数组的首位数字进行一一对应,然后按顺序取出来，如果一组数中有个位、十位、百位，就一一去进行比较，到十位时候将其个位按之前的放入顺序放入0位，继续匹配。</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">//实现基数排序</span></span><br><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">radixSort</span><span class="params">(<span class="keyword">int</span>[] array)</span></span>&#123;</span><br><span class="line">        <span class="comment">//首先确定排序的趟数;</span></span><br><span class="line">        <span class="keyword">int</span> max = array[<span class="number">0</span>];</span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">int</span> i = <span class="number">1</span>; i &lt; array.length; i++) &#123;</span><br><span class="line">            <span class="keyword">if</span> (array[i] &gt; max) &#123;</span><br><span class="line">                max = array[i];</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        <span class="keyword">int</span> count = <span class="number">0</span>;</span><br><span class="line">        <span class="comment">//判断位数;</span></span><br><span class="line">        <span class="keyword">while</span> (max &gt; <span class="number">0</span>) &#123;</span><br><span class="line">            max /= <span class="number">10</span>;</span><br><span class="line">            count++;</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        <span class="comment">//建立10个桶;</span></span><br><span class="line">        List&lt;ArrayList&gt; queue = <span class="keyword">new</span> ArrayList&lt;ArrayList&gt;();</span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">int</span> i = <span class="number">0</span>; i &lt; <span class="number">10</span>; i++) &#123;</span><br><span class="line">            ArrayList&lt;Integer&gt; queue1 = <span class="keyword">new</span> ArrayList&lt;Integer&gt;();</span><br><span class="line">            queue.add(queue1);</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        <span class="comment">//进行分配和收集;</span></span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">int</span> i = <span class="number">0</span>; i &lt; count; i++) &#123;</span><br><span class="line"></span><br><span class="line">            <span class="comment">//分配数组元素;</span></span><br><span class="line">            <span class="keyword">for</span> (<span class="keyword">int</span> j = <span class="number">0</span>; j &lt; array.length; j++) &#123;</span><br><span class="line">                <span class="comment">//得到数字的第time+1位数;</span></span><br><span class="line">                <span class="keyword">int</span> x = array[j] % (<span class="keyword">int</span>) Math.pow(<span class="number">10</span>, i + <span class="number">1</span>) / (<span class="keyword">int</span>) Math.pow(<span class="number">10</span>, i);</span><br><span class="line">                ArrayList&lt;Integer&gt; queue2 = queue.get(x);</span><br><span class="line">                queue2.add(array[j]);</span><br><span class="line">                queue.set(x, queue2);</span><br><span class="line">            &#125;</span><br><span class="line">            <span class="keyword">int</span> temp = <span class="number">0</span>;<span class="comment">//元素计数器;</span></span><br><span class="line">            <span class="comment">//收集队列元素;</span></span><br><span class="line">            <span class="keyword">for</span> (<span class="keyword">int</span> k = <span class="number">0</span>; k &lt; <span class="number">10</span>; k++) &#123;</span><br><span class="line">                <span class="keyword">while</span> (queue.get(k).size() &gt; <span class="number">0</span>) &#123;</span><br><span class="line">                    ArrayList&lt;Integer&gt; queue3 = queue.get(k);</span><br><span class="line">                    array[temp] = queue3.get(<span class="number">0</span>);</span><br><span class="line">                    queue3.remove(<span class="number">0</span>);</span><br><span class="line">                    temp++;</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        printArray(array);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+]]></content>
   </entry>
 </search>
